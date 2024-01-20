@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700&display=swap");
+/* ---reset styles--- */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  scroll-behavior: smooth;
+  font-family: "Outfit", sans-serif;
+}
+body {
+  background: linear-gradient(to bottom, #e1e8e1 30%, #f3f6ec 70%);
+  background-repeat: no-repeat;
+}
+.soon-container{
+  width: 96vw;
+}
+.soon-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 18px;
+  gap: 6px;
+  text-align: center;
+  height: 100vh;
+  width: 100%;
+}
+.soon-section h1 {
+  font-size: 50px;
+  font-weight: 500;
+}
+.soon-section span {
+  color: #ff7000;
+}
+.soon-section p {
+  font-size: 26px;
+  font-weight: 300;
+}
+.soon-section img {
+  height: 70vh;
+}
+/* media query for phone */
+@media screen and (max-width: 768px) {
+  .soon-section {
+    gap: 30px;
+  }
+  .soon-section h1 {
+    font-size: 30px;
+  }
+
+  .soon-section p {
+    font-size: 20px;
+    rotate: 180;
+  }
+  .soon-section img {
+    align-self: center;
+    height: 48vh;
+  }
+}
