@@ -27,6 +27,6 @@ Orange is a frontend project that started as an exploration of Apple's captivati
 
 ## <span style="color:#FFA035">Connect</span> Here
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Kishore-SR) &nbsp;
-[![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Kishore-S-R) &nbsp;
+[![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Kishore-SR) &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=red)](mailto:kishoresr47@gmail.com)
 
