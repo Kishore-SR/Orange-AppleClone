@@ -1,4 +1,4 @@
-# Orange - Apple Clone
+# Orange 🍊
 Orange is a fully responsive Apple Clone website that is compatible with all mobile devices, and is built using HTML, CSS and JavaScript.
 
 <a href="https://aorange.web.app/" target="_blank">**PROJECT LINK** 🚀</a>
