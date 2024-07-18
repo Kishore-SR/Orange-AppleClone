@@ -1,8 +1,7 @@
 # Orange 🍊
 Orange is a fully responsive Apple Clone website that is compatible with all mobile devices, and is built using HTML, CSS and JavaScript.
 
-<a href="https://aorange.web.app/" target="_blank">**PROJECT LINK** 🚀</a>
-
+[![Project Link](https://img.shields.io/badge/Project%20Link-37a779?style=for-the-badge)](https://aorange.web.app/)
 
 ## <span style="color:#FFA035">About</span> Orange
 Orange is a frontend project that started as an exploration of Apple's captivating UI. The main goal was to recreate the frontend of Apple's landing page, showcasing my skills and understanding of modern web development. However, instead of creating a direct clone, I took a creative departure by fully rebranding the project as Orange.
